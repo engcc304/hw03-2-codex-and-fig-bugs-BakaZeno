@@ -8,7 +8,6 @@
 // return 0;}
 
 #include <stdio.h>
-#include <conio.h>
 int main(){
     float a , b=3;
     bool _1=0;
@@ -28,5 +27,5 @@ int main(){
             }
         }
     }
-    return 0;
+    return 0 ;
 }
